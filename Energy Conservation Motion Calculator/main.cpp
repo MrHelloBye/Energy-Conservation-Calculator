@@ -17,14 +17,14 @@ void harmonicOscillator() {
     double delx, x0, m, v0, k;
     double t = 0.0, E, x, xf;
     
-    cout << "Enter increment of the sum:\n";
-    cin >> delx;
-    cout << "Enter initial x:\n";
-    cin >> x0;
-    x = x0;
-    cout << "Enter initial v:\n";
-    cin >> v0;
-    cout << "Enter m:\n";
+	cout << "Enter increment of the sum:\n";
+	cin >> delx;
+	cout << "Enter initial x:\n";
+	cin >> x0;
+	x = x0;
+	cout << "Enter initial v:\n";
+	cin >> v0;
+	cout << "Enter m:\n";
     cin >> m;
     cout << "Enter k:\n";
     cin >> k;
